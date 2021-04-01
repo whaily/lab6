@@ -7,19 +7,6 @@ and open the template in the editor.
     Created on : 1 апр. 2021 г., 20:41:19
     Author     : antia
 */
-h5, p{
-display:inline;
-}
-#menu{
-width:200px;
-background:yellow;
-}
-#menu a{
-color:#2b3845;
-text-decoration:none;
-display:block;
-}
-#menu a:hover{
-color:#92A9BF;
-background:blue;
+h6{
+display:list-item;
 }
