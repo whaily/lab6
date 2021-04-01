@@ -7,9 +7,23 @@ and open the template in the editor.
     Created on : 1 апр. 2021 г., 20:41:19
     Author     : antia
 */
-#p2{
-display:none;
+#header{
+background:darkred;
+width:715px;
+height:100px;
 }
-#p4{
-visibility:hidden;
+#menu{
+background:oldlace;
+width:190px;
+height:300px;
+}
+#content{
+background:oldlace;
+width:525px;
+height:300px;
+}
+#footer{
+background:darkred;
+width:715px;
+height:30px;
 }
