@@ -7,13 +7,8 @@ and open the template in the editor.
     Created on : 1 апр. 2021 г., 20:41:19
     Author     : antia
 */
-#blok1, #blok2, #blok3 {
+#blok1{
 border:1px solid red;
 width:150px;
 height:50px;
-}
-#blok2{
-position:relative;
-left:50px;
-top:25px;
 }
