@@ -16,11 +16,13 @@ height:100px;
 background:oldlace;
 width:190px;
 height:300px;
+float:left;
 }
 #content{
 background:oldlace;
 width:525px;
 height:300px;
+float:left;
 }
 #footer{
 background:darkred;
@@ -31,4 +33,5 @@ height:30px;
 background:yellow;
 width:150px;
 height:280px;
+float:right;
 }
